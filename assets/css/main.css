@@ -157,11 +157,11 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 66px;
+  height: 82px;
   width: auto;
   display: block;
   margin-right: 0;
-  transform: translateY(-8px);
+  transform: translateY(-10px);
 }
 
 .header .logo h1 {
