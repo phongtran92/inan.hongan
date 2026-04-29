@@ -1022,6 +1022,14 @@ section,
   font-size: 16px;
 }
 
+.hero-contact-link {
+  color: #fff1ea;
+}
+
+.hero-contact-link:hover {
+  color: #ffffff;
+}
+
 .hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
